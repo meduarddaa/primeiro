@@ -6,7 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-<h1>  Meu nome nao é igor </h1>
+<h1>  <strong>Meu nome nao é igor<strong/>
+</h1>
     <img scr="mcig.jpeg">
 <P>Mas então de onde veio o IG? </p>
 <p>"Eu, Kevin [1998-2021] e PH somos amigos desde criança e conversamos numa língua ao contrário. Nessa brincadeira, decidi adotar o IG como nome artístico, que é Gui ao contrário”, explicou o cantor, em entrevista para a Billboard Brasil.</p>
