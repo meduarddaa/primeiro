@@ -9,7 +9,7 @@
 <h1>  <strong>Meu nome nao é igor</strong>
 </h1>
     <img scr="mcig.jpeg">
-<P><strong>Mas então de onde veio o IG? </strong>strong></p>
+<P><strong>Mas então de onde veio o IG? </strong></p>
     
 <p>"Eu, Kevin [1998-2021] e PH somos amigos desde criança e conversamos numa língua ao contrário. Nessa brincadeira, decidi adotar o IG como nome artístico, que é Gui ao contrário”, explicou o cantor, em entrevista para a Billboard Brasil.</p>
 <p><strong> Quem é igor guilherme? de onde ele veio?</strong><p>
