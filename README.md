@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>  <strong>Meu nome nao é igor<strong/>
+<h1>  <strong>Meu nome nao é igor</strong>
 </h1>
     <img scr="mcig.jpeg">
 <P>Mas então de onde veio o IG? </p>
