@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<header>
 <h1>  <strong>Meu nome nao é igor</strong>
 </h1>
     <img scr="mcig.jpeg">
